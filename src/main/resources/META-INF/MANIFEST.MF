@@ -1,0 +1,2 @@
+Manifast-Version: 1.0
+Main-Class: com.filter.files.main.Application
